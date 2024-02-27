@@ -1,5 +1,5 @@
-YouTubeBeta: 19.07.40  
-YouTubeLatest: 19.08.35  
+YouTubeLatest: 19.07.40  
+YouTubeBeta: 19.08.35  
 
 Install [mMicroG](https://github.com/inotia00/mMicroG/releases), [Vanced Extended MicroG](https://github.com/inotia00/VancedMicroG/releases), or [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YouTube Music.  
 
