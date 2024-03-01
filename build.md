@@ -1,6 +1,6 @@
-Music: 6.41.58  
 YouTube: 19.02.39  
 Twitter: 10.30.0-release.0  
+Music: 6.41.58  
 YouTubeBeta: 19.08.35  
 
 Install [mMicroG](https://github.com/inotia00/mMicroG/releases), [Vanced Extended MicroG](https://github.com/inotia00/VancedMicroG/releases), or [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YouTube Music.  
