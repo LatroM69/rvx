@@ -1,6 +1,6 @@
 Music: 6.42.52  
-YouTubeBeta: 19.08.36  
 YouTube: 19.07.40  
+YouTubeBeta: 19.08.36  
 
 Install [Vanced Extended MicroG](https://github.com/inotia00/VancedMicroG/releases) or [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YouTube Music.  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YouTube Music from Play Store.  
