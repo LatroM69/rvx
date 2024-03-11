@@ -2,7 +2,9 @@
 
 ## Extensive ReVanced eXtended Builder
 
-Get the [latest CI release](https://github.com/LatroM69/rvx) 
+Get the [latest CI release](https://github.com/LatroM69/rvx)
+
+
 aint gonna yap about the features, find out yourself. people create forks for a reason
 
 ## For YT Music
