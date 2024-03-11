@@ -5,12 +5,11 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "lat rvx"
 
 [YouTube]
-enabled = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 app-name = "YouTube"
 build-mode = "both"
 included-patches = "'Add splash animation' 'MaterialYou'"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'Disable HDR video' 'Spoof app version' 'Spoof player parameters' 'Theme' 'Translations'"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
