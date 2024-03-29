@@ -8,8 +8,8 @@ rv-brand = "lat rvx"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 app-name = "YouTube"
 build-mode = "both"
-version = "19.09.37"
-included-patches = "'Add splash animation' 'MaterialYou'"
+version = "19.11.38"
+included-patches = "'Add splash animation' 'MicroG support' 'MaterialYou'"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom package name' 'Disable HDR video' 'Spoof app version' 'Spoof player parameters' 'Theme'"
 
 [Reddit]
