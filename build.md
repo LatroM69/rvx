@@ -7,8 +7,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 Changelog:  
 CLI: inotia00/revanced-cli-4.6.1-all.jar  
 Integrations: inotia00/revanced-integrations-1.9.3.apk  
-Patches: inotia00/revanced-patches-4.8.4.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.8.4)
+Patches: inotia00/revanced-patches-4.8.5.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v4.8.5)
 
 CLI: inotia00/revanced-cli-4.6.1-all.jar  
 Integrations: YT-Advanced/revanced-integrations-0.148.4.apk  
